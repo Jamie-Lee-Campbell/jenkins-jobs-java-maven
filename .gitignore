@@ -1,2 +1,6 @@
 .idea/*
 target
+Jenkinsfile-kubernetes
+Jenkinsfile-simple-pipeline
+Jenkinsfile-syntax
+Jenkinsfile-version-increment
